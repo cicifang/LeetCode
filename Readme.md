@@ -2,6 +2,6 @@
 
 #### 1. Easy
 
-* 1.[Two Sum](https://github.com/cicifang/LeetCode/blob/master/1.Two%Sum.md)
+* 1.[Two Sum](https://github.com/cicifang/LeetCode/blob/master/1.Two%20Sum.md)
 
 
