@@ -10,7 +10,7 @@
 * [20.Valid Parentheses](https://github.com/cicifang/LeetCode/blob/master/[20.Valid%20Parentheses.md)
 * [21.Merge Two Sorted Lists](https://github.com/cicifang/LeetCode/blob/master/21.Merge%20Two%20Sorted%20Lists.md)
 * [35.Search Insert Position](https://github.com/cicifang/LeetCode/blob/master/35.Search%20Insert%20Position.md)
-* [88.Merge Sorted Array](https://github.com/cicifang/LeetCode/blob/master/21.Merge%20Sorted%20Array.md)
+* [88.Merge Sorted Array](https://github.com/cicifang/LeetCode/blob/master/88.Merge%20Sorted%20Array.md)
 
 
 
