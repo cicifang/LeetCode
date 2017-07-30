@@ -17,7 +17,7 @@
 * [69.Sqrt(x)](https://github.com/cicifang/LeetCode/blob/master/Easy/69.Sqrt(x).md)
 * [83.Remove Duplicates from Sorted List](https://github.com/cicifang/LeetCode/blob/master/Easy/83.Remove%20Duplicated%20from%20Sorted%List.md)
 * [88.Merge Sorted Array](https://github.com/cicifang/LeetCode/blob/master/Easy/88.Merge%20Sorted%20Array.md)
-* [100.Same Tree](https://github.com/cicifang/LeetCode/blob/master/Easy/100.Same%20Treemd)
+* [100.Same Tree](https://github.com/cicifang/LeetCode/blob/master/Easy/100.Same%20Tree.md)
 * [367.Valid Perfect Square](https://github.com/cicifang/LeetCode/blob/master/Easy/367.Valid%20Perfect%20Square.md)
 
 
