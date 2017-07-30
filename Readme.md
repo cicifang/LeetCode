@@ -12,6 +12,10 @@
 * [35.Search Insert Position](https://github.com/cicifang/LeetCode/blob/master/35.Search%20Insert%20Position.md)
 * [38.Count And Say](https://github.com/cicifang/LeetCode/blob/master/35.Count%20And%20Say.md)
 * [53.Maximum Subarray](https://github.com/cicifang/LeetCode/blob/master/53.Maximum%20Subarray.md)
+* [58.Length of Last Word](https://github.com/cicifang/LeetCode/blob/master/58.Length%20of%20Last%20Word.md)
+* [67.Add Binary](https://github.com/cicifang/LeetCode/blob/master/67.Add%20Binary.md)
+* [69.Sqrt(x)](https://github.com/cicifang/LeetCode/blob/master/69.Sqrt(x).md)
 * [88.Merge Sorted Array](https://github.com/cicifang/LeetCode/blob/master/88.Merge%20Sorted%20Array.md)
+* ​
 
 
